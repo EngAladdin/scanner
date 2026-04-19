@@ -1,0 +1,39 @@
+# إطار العمل الأساسي
+flask>=2.3.0
+flask-socketio>=5.3.0
+eventlet>=0.33.0
+
+# الجدولة والمهام
+schedule>=1.2.0
+apscheduler>=3.10.0
+
+# قواعد البيانات
+sqlalchemy>=2.0.0
+sqlite3
+
+# الإشعارات
+requests>=2.31.0
+python-telegram-bot>=20.0
+pywhatkit>=5.4
+
+# التقارير
+openpyxl>=3.1.0
+reportlab>=4.0.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# الفحص الأساسي
+tqdm>=4.66.0
+dnspython>=2.4.0
+numpy>=1.24.0
+
+# الشبكة والبروكسيات
+pysocks>=1.7.1
+socksipy>=1.0
+
+# أدوات مساعدة
+python-dotenv>=1.0.0
+colorama>=0.4.6
+email-validator>=2.0.0
+beautifulsoup4>=4.12.0
